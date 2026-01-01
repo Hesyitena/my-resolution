@@ -10,7 +10,7 @@ in 2026, I want,
   2. SRE
   3. DLL, yang bagus lah
 - consistent
-- expert in pyhto and machine learning, especially computer vision
+- expert in pyhton and machine learning, especially computer vision
 - work hard
 - keep learning
 - active students
