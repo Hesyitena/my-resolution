@@ -1,2 +1,2 @@
 # my-resolution
-pls be consistent
+ga usah dibaca mbut
